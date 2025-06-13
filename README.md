@@ -152,7 +152,7 @@ lib/
 
 ## Video Run down
 
-[Flutter SDK](https://share.vidyard.com/watch/2t5hPVLCXCwWADfkq3iwiD) 
+[Video](https://share.vidyard.com/watch/2t5hPVLCXCwWADfkq3iwiD) 
 
 ---
 
