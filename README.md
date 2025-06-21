@@ -162,4 +162,3 @@ For any questions or feedback, please contact [Apurv Jha] at [apurv.bmsit@gmail.
 
 ---
 
-Good luck with your assignment submission! If you need a PDF version or want to add screenshots, let me know!
